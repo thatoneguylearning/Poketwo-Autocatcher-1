@@ -1,4 +1,15 @@
 class Config:
-    token = "" # Discord User Token
-    spawn_channel = "" # Spawn Channel ID
-    spam_channel = "" # Spam Channel ID
+    token = "MTE2NTA2NDQwMzcxMzAwMzY2Mg.GJmO1Y.xg9zWRbqxp_QLOBR4B35OkNVhbQKU9sT0DOonQ" # Discord User Token
+    spawn_channels = [
+        1146946086733365298,
+        1146946102977888306,
+        1146946124159135814,
+        1146946133634076823,
+        1154066233528959047,
+        1154066246329974824,
+        1155767163685187594,
+        1154066246329974824,
+        1155767163685187594,
+        1146946112540917790,
+    ]
+      # Spam Channel ID
